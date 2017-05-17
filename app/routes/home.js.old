@@ -1,3 +1,5 @@
+//Comentario feito por Debora Cintra
+
 //var controller = require('../controllers/home')();
 
 module.exports = function(app) {
